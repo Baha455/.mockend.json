@@ -1,13 +1,5 @@
-{
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
-}
+{"pagination":{"limit":100,"offset":0,"count":100,"total":252},"data":
+[{"open":123.75,"high":127.93,"low":122.79,"close":127.79,"volume":116307892.0,"adj_high":127.93,"adj_low":122.79,"adj_close":127.79,"adj_open":123.75,"adj_volume":116307892.0,
+"symbol":"AAPL","exchange":"XNAS","date"},
+ {"open":122.59,"high":124.85,"low":121.2,"close":121.26,"volume":164320000.0,"adj_high":124.85,"adj_low":121.2,"adj_close":121.26,"adj_open":122.59,"adj_volume":163424672.0,"symbol":
+  "AAPL","exchange":"XNAS","date"},
