@@ -1,14 +1,12 @@
 {"data1":
 {"pagination":{"limit":100,"offset":0,"count":100,"total":252},
-"data":[
-  {"open":123.75,"high":127.93,"low":122.79,"close":127.79,"volume":116307892.0,"adj_high":127.93,"adj_low":122.79,"adj_close":127.79,"adj_open":123.75,"adj_volume":116307892.0,"symbol":"AAPL","exchange":"XNAS","date":"2021-03-01T00:00:00+0000"},
-  {"open":122.59,"high":124.85,"low":121.2,"close":121.26,"volume":164320000.0,"adj_high":124.85,"adj_low":121.2,"adj_close":121.26,"adj_open":122.59,"adj_volume":163424672.0,"symbol":"AAPL","exchange":"XNAS","date":"2021-02-26T00:00:00+0000"},
-  {"open":124.68,"high":126.4585,"low":120.54,"close":120.99,"volume":148199540.0,"adj_high":126.4585,"adj_low":120.54,"adj_close":120.99,"adj_open":124.68,"adj_volume":144766924.0,"symbol":"AAPL","exchange":"XNAS","date":"2021-02-25T00:00:00+0000"},
-  {"open":124.94,"high":125.56,"low":122.23,"close":125.35,"volume":111039904.0,"adj_high":125.56,"adj_low":122.23,"adj_close":125.35,"adj_open":124.94,"adj_volume":111039904.0,"symbol":"AAPL","exchange":"XNAS","date":"2021-02-24T00:00:00+0000"},
-  {"open":123.76,"high":126.705,"low":118.39,"close":125.86,"volume":158273022.0,"adj_high":126.71,"adj_low":118.39,"adj_close":125.86,"adj_open":123.76,"adj_volume":158273022.0,"symbol":"AAPL","exchange":"XNAS","date":"2021-02-23T00:00:00+0000"},
-  {"open":128.01,"high":129.72,"low":125.6,"close":126.0,"volume":100925374.0,"adj_high":129.72,"adj_low":125.6,"adj_close":126.0,"adj_open":128.01,"adj_volume":102886922.0,"symbol":"AAPL","exchange":"XNAS","date":"2021-02-22T00:00:00+0000"},
-  {"open":130.24,"high":130.71,"low":128.8,"close":129.87,"volume":87668834.0,"adj_high":130.71,"adj_low":128.8,"adj_close":129.87,"adj_open":130.24,"adj_volume":87668834.0,"symbol":"AAPL","exchange":"XNAS","date":"2021-02-19T00:00:00+0000"},
-  {"open":129.2,"high":129.995,"low":127.41,"close":129.71,"volume":96856748.0,"adj_high":129.995,"adj_low":127.41,"adj_close":129.71,"adj_open":129.2,"adj_volume":96856748.0,"symbol":"AAPL","exchange":"XNAS","date":"2021-02-18T00:00:00+0000"},
-  {"open":131.25,"high":132.22,"low":129.47,"close":130.84,"volume":97372199.0,"adj_high":132.22,"adj_low":129.47,"adj_close":130.84,"adj_open":131.25,"adj_volume":97372199.0,"symbol":"AAPL","exchange":"XNAS","date":"2021-02-17T00:00:00+0000"},
-  {"open":135.49,"high":136.01,"low":132.79,"close":133.19,"volume":80576316.0,"adj_high":136.01,"adj_low":132.79,"adj_close":133.19,"adj_open":135.49,"adj_volume":80576316.0,"symbol":"AAPL","exchange":"XNAS","date":"2021-02-16T00:00:00+0000"},
-  {"open":134.35,"high":135.53,"low":133.6921,"close":135.37,"volume":60145130.0,"adj_high":135.53,"adj_low":133.6921,"adj_close":135.37,"adj_open":134.35,"adj_volume":60145130.0,"symbol":"AAPL","exchange":"XNAS","date":"2021-02-12T00:00:00+0000"}]}}
+"data":
+  {"open":123.75,
+   "high":127.93,
+   "low":122.79,"close":127.79,
+   "volume":116307892.0,"adj_high":127.93,
+   "adj_low":122.79,"adj_close":127.79,
+   "adj_open":123.75,"adj_volume":116307892.0,
+   "symbol":"AAPL","exchange":"XNAS",
+   "date":"2021-03-01T00:00:00+0000"},
+  }}
