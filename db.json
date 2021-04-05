@@ -1,6 +1,4 @@
-{"data1":
-{"pagination":{"limit":100,"offset":0,"count":100,"total":252},
-"data":
+{"data":
   {"open":123.75,
    "high":127.93,
    "low":122.79,"close":127.79,
@@ -8,4 +6,4 @@
    "adj_low":122.79,"adj_close":127.79,
    "adj_open":123.75,"adj_volume":116307892.0,
    "symbol":"AAPL","exchange":"XNAS",
-   "date":"2021-03-01T00:00:00+0000"}}}
+   "date":"2021-03-01T00:00:00+0000"}}
