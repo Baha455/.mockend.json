@@ -1,14 +1,17 @@
+{"user": {
+"first_name": "User",
+"photo" : "any link to image",
+"second_name": "User_Second",
+"education": 1,
+"company": [
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"name": "TEST_COMPANY",
+"position": "developer"
+},
+{
+"name": "Google",
+"position": "developer"
+}
+]
+}
 }
