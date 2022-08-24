@@ -1,40 +1,19 @@
-{"catalog":[{
-"images":[{
-"image":"https://pbs.twimg.com/media/FBFDrM3XsAAb6A8?format=jpg&name=medium"},
-{"image":"https://pbs.twimg.com/media/FBFDrM5WEAAlPgq?format=jpg&name=small"},
-{"image":"https://pbs.twimg.com/media/FBFDrMuXIAMe2xh?format=jpg&name=medium"}],
-"title":"1 комн., 50м², этаж 5/10",
-"location":"просп. Манаса, 89",
-"price":"32 000",
-"area":"50",
-"kitchen":"8",
-"floor":"5/10",
-"rooms":"1",
-"latitude":"42.879834",
-"longitude":"74.589031"},
-{"images":[{
-"image":"https://pbs.twimg.com/media/FDMCysLWUAQUjtC?format=jpg&name=900x900"},
-{"image":"https://pbs.twimg.com/media/FDMCzwUWYAA9EHA?format=jpg&name=900x900"},
-{"image":"https://pbs.twimg.com/media/FDQoxvpXEAEjj24?format=jpg&name=medium"}],
-"title":"2 комн., 57м², этаж 7/10",
-"location":"ул. Чайковского, 68",
-"price":"30 000",
-"area":"22",
-"kitchen":"8.5",
-"floor":"2/10",
-"rooms":"2",
-"latitude":"42.857930",
-"longitude":"74.531935"},
-{"images":[{
-"image":"https://pbs.twimg.com/media/FDQoxvrXIAMXNTe?format=jpg&name=medium"},
-{"image":"https://pbs.twimg.com/media/FDQoxvmXsAAdnn9?format=jpg&name=medium"},
-{"image":"https://pbs.twimg.com/media/FDQoxvjWUAkBFcg?format=jpg&name=900x900"}],
-"title":"3 комн., 67м², этаж 2/10",
-"location":"ул. Льва Толстого, 168",
-"price":"23 000",
-"area":"22",
-"kitchen":"10",
-"floor":"7/10",
-"rooms":"3",
-"latitude":"42.863759",
-"longitude":"74.547556"}]}
+{
+"user": {
+"first_name": "User",
+"photo" : "any link to image"
+"second_name": "User_Second",
+"education": 1,
+"company": [
+{
+"name": "TEST_COMPANY",
+"position": "developer"
+},
+{
+"name": "Google",
+"position": "developer"
+}
+]
+}
+}
+
