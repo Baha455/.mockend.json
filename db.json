@@ -1,7 +1,7 @@
 {
 "user": {
 "first_name": "User",
-"photo" : "any link to image"
+"photo" : "any link to image",
 "second_name": "User_Second",
 "education": 1,
 "company": [
