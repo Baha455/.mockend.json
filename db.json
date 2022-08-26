@@ -1,12 +1,12 @@
 {"user": {
-"first_name": "User",
-"photo" : "any link to image",
-"second_name": "User_Second",
+"first_name": "Van",
+"photo" : "https://pbs.twimg.com/profile_images/1381142997123821569/rLYGjVjf_400x400.jpg",
+"second_name": "Dark Holm",
 "education": 1,
 "company": [
 {
-"name": "TEST_COMPANY",
-"position": "developer"
+"name": "GACHI",
+"position": "Dungeon Master"
 },
 {
 "name": "Google",
